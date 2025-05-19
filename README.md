@@ -79,6 +79,14 @@ python cli.py remove-folder --name my_new_folder
 
 **Note**: This command will remove the folder and ALL its contents recursively. Use with caution!
 
+### Wiki Command
+Searches wikipedia and returns the first 5 sentences of the summary.
+
+Example:
+```bash
+python cli.py wiki --search tokyo
+```
+
 ### Help
 To see all available commands and their descriptions:
 ```bash
