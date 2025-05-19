@@ -1,0 +1,5 @@
+flask==3.0.2
+python-dotenv==1.0.1
+pyjokes==0.6.0
+wikipedia-api==0.6.0
+randfacts==0.7.0
